@@ -1,0 +1,4 @@
+classifier,topK,distinct_in_topK,stable_core,churn_extra
+lightgbm,6,9,3,3
+random_forest,6,9,4,3
+xgboost,6,8,3,2

@@ -1,0 +1,16 @@
+classifier,seed,W_bar,n_unsettled,n_settled
+lightgbm,42,0.9491,59,6
+lightgbm,43,0.9409,59,6
+lightgbm,44,0.93,59,6
+lightgbm,45,0.9484,59,6
+lightgbm,46,0.9391,59,6
+random_forest,42,0.9685,59,6
+random_forest,43,0.966,59,6
+random_forest,44,0.9712,59,6
+random_forest,45,0.968,59,6
+random_forest,46,0.9654,59,6
+xgboost,42,0.9241999983787537,59,6
+xgboost,43,0.9142000079154968,59,6
+xgboost,44,0.9157999753952026,59,6
+xgboost,45,0.9157000184059143,59,6
+xgboost,46,0.916100025177002,59,6
